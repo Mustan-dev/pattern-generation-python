@@ -15,10 +15,11 @@ This project is the second task of the **SWE4201: Introduction to Software Devel
 
 ## 🧩 Included Scripts
 
-| Script Name                | Description                                      |
-|---------------------------|--------------------------------------------------|
-| `Right-angled Triangle.py`| Prints a left-aligned triangle using asterisks   |
-| `Structure Pyramid.py`    | Prints a centered pyramid using asterisks and spaces |
+| Script Name                          | Description                                      |
+|-------------------------------------|--------------------------------------------------|
+| `StructureRight-angled Triangle.py` | Prints a left-aligned triangle using asterisks   |
+| `Structure Pyramide.py`             | Prints a centered pyramid using asterisks and spaces |
+| `Structure Inverted Triangle.py`    | Prints a top-down inverted triangle using asterisks |
 
 Each script is designed to run independently and produce output directly in the Python shell.
 
@@ -28,7 +29,7 @@ Each script is designed to run independently and produce output directly in the 
 
 ### Python Shell Output  
 ![Pattern Output](image1.png)  
-*Displays the execution of both scripts in Python IDLE Shell, showing the triangle and pyramid patterns.*
+*Displays the execution of all three scripts in Python IDLE Shell, showing triangle, pyramid, and inverted triangle patterns.*
 
 ---
 
@@ -41,5 +42,6 @@ To execute the scripts:
 3. Run each file individually:
 
 ```bash
-python "Right-angled Triangle.py"
-python "Structure Pyramid.py"
+python "StructureRight-angled Triangle.py"
+python "Structure Pyramide.py"
+python "Structure Inverted Triangle.py"
