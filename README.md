@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 This project is the second task of the **SWE4201: Introduction to Software Development** module. It focuses on using Python to generate geometric patterns through control flow and string manipulation. The scripts demonstrate foundational programming concepts such as nested loops, alignment logic, and console output formatting.
 
 ---
